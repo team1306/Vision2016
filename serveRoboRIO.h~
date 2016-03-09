@@ -1,7 +1,0 @@
-#ifndef __SERVEROBORIO_H__
-
-#include <mutex>
-
-void ServeRoboRIOUtil(std::mutex&, double&);
-
-#endif
